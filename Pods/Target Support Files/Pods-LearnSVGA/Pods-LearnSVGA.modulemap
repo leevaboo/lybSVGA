@@ -1,0 +1,6 @@
+framework module Pods_LearnSVGA {
+  umbrella header "Pods-LearnSVGA-umbrella.h"
+
+  export *
+  module * { export * }
+}
